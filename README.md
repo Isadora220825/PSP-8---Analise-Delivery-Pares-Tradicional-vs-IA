@@ -1,0 +1,1 @@
+# PSP-8---An-lise-Delivery-Pares-Tradicional-vs-IA
