@@ -1,4 +1,4 @@
-# PSP-8--elivery de Comida: Análise Tradicional vs. Inteligência Artificial
+# PSP-8--Delivery de Comida: Análise Tradicional vs. Inteligência Artificial
 
 Projeto de análise de dados que compara, **aos pares**, uma abordagem tradicional (estatística manual) com uma abordagem de Inteligência Artificial, nas três frentes clássicas de análise de dados: **descritiva, preditiva e prescritiva**.
 
